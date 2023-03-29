@@ -1,1 +1,1 @@
-# my_Discord
+# myDiscord
